@@ -1,4 +1,4 @@
-# Tap Kick-ups
+# Tap Kick Ups
 
 A simple game to kick-up a ball. \
 Achieve high score and share with your friends.
