@@ -6,7 +6,7 @@ Achieve high score and share with your friends.
 Download Lua and Corona Simulator to run the project. 
 
 Download the game (android only) \
-https://mega.nz/file/l090HDKI#x9bbo1_fEyyHMk-KBmBdcLlZmiEAomdpQDhd7rD13Ik
+https://mega.nz/file/Z0FUUAhS#bwDyl-aXQdh5jSvq0JXte28VwATlUK0TqkomlitIjmI
 
 
 ### Can you beat my record?
